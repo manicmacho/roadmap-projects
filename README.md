@@ -5,4 +5,4 @@ Hello! Here is a repository of all my projects that I have done from learning on
 ### HTML
 | S/N | Project |
 |-:|:-:|
-| 01 | [Single-Page CV](https://github.com/manicmacho/roadmap-projects/blob/frontend/01-single-page-cv.htm) |
+| 01 | [Single-Page CV](https://github.com/manicmacho/roadmap-projects/blob/19b64dd3cedac1ee895a8c43456c24f6d253e900/frontend/01-single-page-cv.htm) |
