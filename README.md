@@ -3,6 +3,6 @@ Hello! Here is a repository of all my projects that I have done from learning on
 
 ## Frontend Developer
 ### HTML
-| S/N | Project | Link |
-|-:|:-:|:-|
-| 01 | Single-Page CV | In Progress |
+| S/N | Project |
+|-:|:-:|
+| 01 | [Single-Page CV](https://github.com/manicmacho/roadmap-projects/y/01-single-page-cv.htm) |
